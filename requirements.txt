@@ -1,0 +1,8 @@
+numpy
+argparse
+matplotlib
+opencv-python
+opencv-contrib-python
+jupyter
+apriltag
+imutils
